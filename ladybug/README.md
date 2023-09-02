@@ -2,6 +2,8 @@
 
 My first keyboard build
 
+![](img/ladybug_layout.png)
+
 ## Hardware
 
 - Board: Proton C
