@@ -1,6 +1,6 @@
 # Penguin
 
-![](img/v2_wiring_matrix.png)
+![](img/penguin_layout.png)
 
 More experimental board.
 
